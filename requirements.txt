@@ -1,0 +1,5 @@
+streamlit
+jobspy
+pandas
+requests
+csv
