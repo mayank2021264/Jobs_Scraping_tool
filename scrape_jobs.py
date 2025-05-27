@@ -1,5 +1,5 @@
 import streamlit as st
-from jobspy import scrape_jobs
+from jobspy import scrape_jobs as js
 import pandas as pd
 from datetime import datetime
 from pathlib import Path
@@ -158,7 +158,7 @@ class JobScraper:
         try:
             for site in self.site_names:
                 try:
-                    jobs = scrape_jobs(
+                    jobs = js(
                         site_name=site,
                         search_term=self.search_term,
                         location=self.location,
