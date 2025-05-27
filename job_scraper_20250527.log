@@ -1,0 +1,11 @@
+2025-05-27 14:30:03,013 - INFO - Starting job scrape for 'software engineer' in Delhi, India
+2025-05-27 14:30:04,065 - INFO - JobSpy:Indeed - finished scraping
+2025-05-27 14:30:17,182 - INFO - JobSpy:Linkedin - finished scraping
+2025-05-27 14:30:18,821 - INFO - JobSpy:Google - finished scraping
+2025-05-27 14:30:18,932 - INFO - Successfully saved jobs data to job_results\jobs_20250527_143018.csv
+2025-05-27 14:30:18,932 - INFO - Scraping completed. Found 59 jobs
+2025-05-27 14:44:47,832 - INFO - Starting job scrape for 'software engineer' in Delhi, India
+2025-05-27 14:44:48,767 - INFO - JobSpy:Indeed - finished scraping
+2025-05-27 14:44:50,356 - INFO - JobSpy:Google - finished scraping
+2025-05-27 14:44:50,440 - INFO - Successfully saved jobs data to job_results\jobs_20250527_144450.csv
+2025-05-27 14:44:50,440 - INFO - Scraping completed. Found 40 jobs
